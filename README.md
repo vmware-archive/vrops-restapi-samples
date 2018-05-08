@@ -45,4 +45,4 @@ refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Refer to [LICENSE.md](LICENSING.md)
+Refer to [LICENSE.txt](LICENSE.txt)
